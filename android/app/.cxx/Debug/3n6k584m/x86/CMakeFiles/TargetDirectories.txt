@@ -1,0 +1,2 @@
+D:/github/MediMatch/android/app/.cxx/Debug/3n6k584m/x86/CMakeFiles/edit_cache.dir
+D:/github/MediMatch/android/app/.cxx/Debug/3n6k584m/x86/CMakeFiles/rebuild_cache.dir
