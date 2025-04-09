@@ -50,8 +50,8 @@ Introducing **MediMatch**! An AI-powered mobile app designed to support users wi
 Install **MediMatch** with Flutter:
 
 ```bash
-git clone https://github.com/yourusername/Pharmacy_CoPilot.git
-cd Pharmacy_CoPilot
+git clone https://github.com/yourusername/MediMatch.git
+cd MediMatch
 flutter pub get
 flutter run
 ```
