@@ -39,7 +39,7 @@ Introducing **MediMatch**! An AI-powered mobile app designed to support users wi
 ## Tech Stack
 
 - **Client:** Flutter
-- **Server:** Supabase, n8n, Google AI (Vision AI, Gemini), Google Maps API
+- **Server:**  Google AI (Vision AI, Gemini), Google Maps API
 - **AI Technologies:** Google AI Studio, Vertex AI, Gemini (for AI-powered insights)
 - **Database:** Firebase Firestore (real-time data storage)
 - **Authentication:** Firebase Authentication
